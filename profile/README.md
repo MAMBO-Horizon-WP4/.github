@@ -15,7 +15,7 @@ The toolbox contains open-source software and notes that enable you to map indiv
     * run the U-NET model using attn-unet-shrub-id to produce a shrub map classification.
 * [metadata](https://github.com/MAMBO-Habitat/metadata) contains information about available data files supplied for use with the code (Drone imagery, lidar and other): a list and where to find and how to download the files.
 
-The biomass model called [BRAMBLE](https://github.com/MAMBO-Habitat/BRAMBLE) is designed to be trained with incomplete data. The test case uses destructive samples of Hawthorn shrubs collected in a rewilding site in the UK, managed by the Wildlife Trust (Strawberry Hill farm, Bedfordshire).   
+The biomass model called [BRAMBLE](https://github.com/MAMBO-Habitat/BRAMBLE/blob/main/README.md) is designed to be trained with incomplete data. The test case uses destructive samples of Hawthorn shrubs collected in a rewilding site in the UK, managed by the Wildlife Trust (Strawberry Hill farm, Bedfordshire).   
 
 The lead organisation for this work is [UK Centre for Ecology and Hydrology](https://github.com/NERC-CEH/)
 
